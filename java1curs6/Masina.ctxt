@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Masina
+comment1.params=marca\ model
+comment1.target=Masina(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

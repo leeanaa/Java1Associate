@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Season
+comment1.params=valMin
+comment1.target=Season(int)
+comment2.params=valMin
+comment2.target=void\ setValMin(int)
+comment3.params=
+comment3.target=int\ getValMin()
+numComments=4

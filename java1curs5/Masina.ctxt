@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Masina
+comment1.params=marca\ culoare
+comment1.target=Masina(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=
+comment3.target=java.lang.String\ getCuloare()
+numComments=4

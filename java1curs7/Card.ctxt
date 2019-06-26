@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=amount
+comment1.target=Card(int)
+comment2.params=suma
+comment2.target=void\ retragereNumerar(int)
+numComments=3

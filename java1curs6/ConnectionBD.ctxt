@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ConnectionBD
+comment1.params=
+comment1.target=ConnectionBD()
+comment2.params=
+comment2.target=ConnectionBD\ getMyInstance()
+comment3.params=
+comment3.target=ConnectionBD\ getMyInstance2()
+numComments=4

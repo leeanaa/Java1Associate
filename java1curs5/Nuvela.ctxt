@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Nuvela
+comment1.params=titlu\ autor\ nrPagini
+comment1.target=Nuvela(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getNrPagini()
+numComments=3

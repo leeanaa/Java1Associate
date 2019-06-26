@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MasinaF1
+comment1.params=marca\ culoare\ marcaPlacute\ pilot
+comment1.target=MasinaF1(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPilot()
+comment3.params=
+comment3.target=java.lang.String\ getMarcaPlacute()
+comment4.params=
+comment4.target=java.lang.String\ getMarcaMasina()
+numComments=5
