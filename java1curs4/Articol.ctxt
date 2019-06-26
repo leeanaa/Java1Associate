@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Articol
+comment1.params=denumire\ pret\ disponibilitate
+comment1.target=Articol(java.lang.String,\ double,\ boolean)
+comment2.params=denumire
+comment2.target=void\ setDenumire(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDenumire()
+numComments=4

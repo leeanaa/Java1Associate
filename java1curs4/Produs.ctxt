@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Produs
+comment1.params=pret\ ambalaj
+comment1.target=Produs(double,\ Ambalaj)
+comment2.params=
+comment2.target=double\ getPret()
+comment3.params=
+comment3.target=Ambalaj\ getAmbalaj()
+numComments=4
