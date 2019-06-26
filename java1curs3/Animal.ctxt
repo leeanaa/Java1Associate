@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=
+comment1.target=Animal()
+comment2.params=
+comment2.target=void\ seHraneste()
+comment3.params=hrana
+comment3.target=void\ seHraneste(java.lang.String)
+comment4.params=hrana\ ziua
+comment4.target=void\ seHraneste(java.lang.String,\ boolean)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Masina
+comment1.params=
+comment1.target=Masina()
+comment2.params=m\ p
+comment2.target=Masina(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ franeaza()
+comment4.params=
+comment4.target=void\ accelereaza()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
