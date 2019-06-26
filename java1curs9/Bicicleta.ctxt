@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Bicicleta
+comment1.params=marca\ culoare
+comment1.target=Bicicleta(java.lang.String,\ java.lang.String)
+numComments=2
